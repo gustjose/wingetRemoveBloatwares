@@ -33,7 +33,7 @@ $applications = @(
     "Microsoft.GamingApp_8wekyb3d8bbwe",
     "Microsoft.BingWeather_8wekyb3d8bbwe",
     "Microsoft.BingNews_8wekyb3d8bbwe",
-    "Microsoft.549981C3F5F10_8wekyb3d8bbwe",
+    "Microsoft.549981C3F5F10_8wekyb3d8bbwe", # Cortana
     "Clipchamp.Clipchamp_yxz26nhyzhsrt",
     "Microsoft.Windows.Photos_8wekyb3d8bbwe",
     "Microsoft.WindowsAlarms_8wekyb3d8bbwe",
